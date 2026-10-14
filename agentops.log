@@ -1,0 +1,4 @@
+2026-05-12 14:06:29,700 - INFO - Session Replay for default trace: https://app.agentops.ai/sessions?trace_id=5602ec4a41244b7df6e8b0f54fae7b30
+2026-05-12 14:06:46,284 - WARNING - end_session() is deprecated and will be removed in v4 in the future. Use agentops.end_trace() instead.
+2026-05-12 14:06:47,301 - INFO - Session Replay for default.session trace: https://app.agentops.ai/sessions?trace_id=5602ec4a41244b7df6e8b0f54fae7b30
+2026-05-12 14:08:50,949 - WARNING - end_session called but no active trace context found.
